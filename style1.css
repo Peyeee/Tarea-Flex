@@ -43,14 +43,3 @@
     color: white;
 
 }
-.nav-contact:hover {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: rgb(48, 48, 150);
-    height: 30px;
-    width: 100px;
-    border-radius: 20px;
-    transition: 1s;
-
-}
